@@ -1,6 +1,4 @@
 import React from 'react'
-
-
 import styles from "./styles.module.css";
 import Link from 'next/link';
 import Image from 'next/image';
@@ -12,7 +10,7 @@ export default function MovieSection({title,movies}) {
       <div className={styles.movies}>
         {movies.map((movie)=>(
             <div className={styles.movie} key={movie.id}>
-                <Link href={`/movies/${movie.id}`}>
+                <Link href={`/movie/${movie.id}`}>
                     <Image
                         fill
                         unoptimized
