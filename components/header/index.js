@@ -9,7 +9,7 @@ export default function Header() {
     <header className={`${styles.header} container fluid`}>
       <div className={styles.headerWrapper}>
         <Link href='/' className={styles.logo}>
-            <FaPlayCircle/> NETFLIX
+            <FaPlayCircle/> FILM APP
         </Link>
         <nav className={styles.navigationMenu}>
             <Link href='/' >Movies</Link>
