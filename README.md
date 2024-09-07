@@ -44,5 +44,6 @@ Make sure you have the following installed:
 - To run the development server:
     ```bash	
     npm run dev
-    Open your browser and navigate to http://localhost:3000. You should see the Film App homepage.
+
+- Open your browser and navigate to http://localhost:3000. You should see the Film App homepage.
 
