@@ -32,10 +32,10 @@ Make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/eeyll18/nextjs-proje.git
 2. Navigate to the project directory:
     ```bash
-    cd netflix-clone
+    cd nextjs-proje
 3. Install the dependencies:
     ```bash	
     npm install
